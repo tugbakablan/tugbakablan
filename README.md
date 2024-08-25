@@ -1,4 +1,4 @@
-### Hi there 👋, Tuğba Kablan
+### Hi there 👋
 
 ![HELLO GITHUB (7)](https://github.com/user-attachments/assets/470a7dc8-8568-4e88-b207-49a0514524c7)
 
