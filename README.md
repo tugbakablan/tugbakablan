@@ -1,6 +1,7 @@
 ### Hi there 👋, Tuğba Kablan
 
-![HELLO GITHUB (6)](https://github.com/user-attachments/assets/bd97cee0-9e86-4613-bf99-766c6665e51b)
+![HELLO GITHUB (7)](https://github.com/user-attachments/assets/470a7dc8-8568-4e88-b207-49a0514524c7)
+
 
 #### Computer Engineer Student
 I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
