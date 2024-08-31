@@ -15,10 +15,6 @@ I am always eager to expand my knowledge in the field of computer engineering an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbakablan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tugbakablan&show_icons=true&count_private=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tugbakablan&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tugbakablan)  
-
----
-[![](https://visitcount.itsvg.in/api?id=tugbakablan&icon=0&color=0)](https://visitcount.itsvg.in)
-
